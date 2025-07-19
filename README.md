@@ -1,4 +1,4 @@
-# demo
+# demo3
 
 This repository contains a demonstration project for experimenting with SSD (Single Shot MultiBox Detector) object detection models.  
 It includes sample code, configuration files, and example scripts to help users understand how to set up, train, and evaluate SSD models on various datasets.
